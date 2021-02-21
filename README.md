@@ -65,7 +65,7 @@ Performs the indicated administrative action on a resource.
 
 
 ### Help Commands
-Use help commands to discover the types of resources available on an Integration Server, the operations each type of resource supports and the inputs and outputs of each operation.
+Use help commands to discover the types of resources available on an Integration Server, the operations for each type of resource and the inputs and outputs of each operation.
 
     wmisa help
 Lists all types of resources on the Integration Server.
