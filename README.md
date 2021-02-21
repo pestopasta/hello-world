@@ -1,4 +1,3 @@
-# hello-world
 ## webMethods Integration Server Administration
 
 wmisa is a command line client for administering webMethods Integration Server. Use it to perform operations on administrative resources and execute administrative actions such as restarting the server, installing a package or enabling a cache manager.
